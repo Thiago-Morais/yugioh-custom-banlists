@@ -31,6 +31,6 @@ A collection of all of the cards you can get spending zero gems in Master Duel
 
 <img src="Readme src/gif/Master Duel Solo Banlist.gif" width="400">
 
-This includes the `Starter Deck`, the 3 initial structural decks and all of the `Solo Mode` rewards
+This includes the `Starter Deck`, the 3 initial structural decks and all of the `Solo Mode` rewards and the discover mission rewards
 
 Updated up to 2024-09-14
